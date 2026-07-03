@@ -1,7 +1,7 @@
 # SCRIPTS-TFG
 Achéganse os scripts usados para a toma de datos dos aparellos no setup do TFG: Caracterización Ambiental de electrónica para o futuro detector de vértices do LHCb: VELO Upgrade II
 
-O primeiro é o código en C++ para manexar o Arduino ao que temos conectado o PT-100 (sensor de temperatura colocado donde o lpGBT)
+O primeiro é o código en C++ para manexar o Arduino ao que temos conectado o PT-100 (sensor de temperatura colocado donde o lpGBT).
 O segundo é o script que toma os datos do PT-100, do MPT 200 (sensor presión cámara baleiro) e do sistema de refrixeración (chiller).
 
 
